@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebApplication1.Models.Slot>
+
+@{
+    ViewData["Title"] = "Wolne terminy lekarza";
+    var doctor = ViewBag.Doctor as WebApplication1.Models.Doctor;
+}
+
+<h2>Wolne terminy</h2>
+
+<p>
+    Lekarz: <strong>@doctor.Name @doctor.Surname</strong>
+</p>
+
+@if (!Model.Any())
+{
+    <p>Brak wolnych terminów.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Początek</th>
+                <th>Koniec</th>
+                <th>Rezerwacja</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var slot in Model)
+            {
+                <tr>
+                    <td>@slot.StartAt.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@slot.EndAt.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>
+                        <a asp-controller="Booking"
+                           asp-action="Create"
+                           asp-route-slotId="@slot.SlotId"
+                           class="btn btn-primary btn-sm">
+                            Zarezerwuj
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

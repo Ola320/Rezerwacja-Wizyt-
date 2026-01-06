@@ -1,0 +1,13 @@
+﻿@model WebApplication1.Models.Booking
+
+<h2>Rezerwacja potwierdzona ✅</h2>
+
+<p>
+    <strong>Pacjent:</strong> @Model.Patient.Name @Model.Patient.Surname <br />
+    <strong>Lekarz:</strong> @Model.Slot.Doctor.Name @Model.Slot.Doctor.Surname <br />
+    <strong>Termin:</strong> @Model.Slot.StartAt.ToString("dd.MM.yyyy HH:mm") <br />
+</p>
+
+<a asp-controller="Doctor" asp-action="Index" class="btn btn-secondary">
+    Powrót do listy lekarzy
+</a>

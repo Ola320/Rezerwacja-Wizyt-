@@ -1,0 +1,50 @@
+﻿@model IEnumerable<WebApplication1.Models.Doctor>
+
+@{
+    ViewData["Title"] = "Lista lekarzy";
+}
+
+<h2>Lista lekarzy</h2>
+
+<form method="get" asp-action="Index">
+  <select name="specializationId" class="form-select" style="max-width:320px;display:inline-block">
+    <option value="">– wszystkie specjalizacje –</option>
+    @foreach (var s in (IEnumerable<WebApplication1.Models.Specialization>)ViewBag.Specializations)
+    {
+      <option value="@s.SpecializationId">@s.SpecializationName</option>
+    }
+  </select>
+  <button class="btn btn-secondary">Filtruj</button>
+</form>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Email</th>
+            <th>Specjalizacje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.Name</td>
+                <td>@doctor.Surname</td>
+                <td>@doctor.Email</td>
+                <td>
+                    @string.Join(", ", doctor.DoctorSpecializations
+                             .Select(ds => ds.Specialization.SpecializationName))
+                </td>
+                <td>
+                    <a asp-controller="Doctor" asp-action="Slots" asp-route-id="@doctor.DoctorId">
+                        Zobacz terminy
+                    </a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
