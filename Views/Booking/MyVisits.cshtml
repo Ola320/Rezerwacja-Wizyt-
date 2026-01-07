@@ -1,0 +1,134 @@
+﻿@model List<WebApplication1.Models.Booking>
+
+@{
+    ViewData["Title"] = "Moje wizyty";
+}
+
+<h2 class="mb-4">Moje wizyty</h2>
+
+@if (Model == null || Model.Count == 0)
+{
+    <div class="alert alert-info">
+        Nie masz jeszcze żadnych zarezerwowanych wizyt.
+        <a asp-controller="Doctor" asp-action="Index" class="alert-link">Przejdź do listy lekarzy</a>.
+    </div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead>
+                <tr>
+                    <th>Lekarz</th>
+                    <th>Termin</th>
+                    <th>Pacjent</th>
+                    <th>Status</th>
+                    <th class="text-end">Akcje</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    var doctor = b.Slot?.Doctor;
+                    var start = b.Slot?.StartAt;
+                    var end = b.Slot?.EndAt;
+
+                    <tr>
+                        <td>
+                            @if (doctor != null)
+                            {
+                                <div class="fw-bold">@doctor.Name @doctor.Surname</div>
+                                <div class="text-muted small">@doctor.Email</div>
+                            }
+                            else
+                            {
+                                <span class="text-muted">—</span>
+                            }
+                        </td>
+
+                        <td>
+                            @if (start != null && end != null)
+                            {
+                                <div class="fw-bold">@start.Value.ToLocalTime().ToString("yyyy-MM-dd")</div>
+                                <div class="text-muted small">
+                                    @start.Value.ToLocalTime().ToString("HH:mm") - @end.Value.ToLocalTime().ToString("HH:mm")
+                                </div>
+                            }
+                            else
+                            {
+                                <span class="text-muted">—</span>
+                            }
+                        </td>
+
+                        <td>
+                            @if (b.Patient != null)
+                            {
+                                <div>@b.Patient.Name @b.Patient.Surname</div>
+                                <div class="text-muted small">@b.Patient.Email</div>
+                            }
+                            else
+                            {
+                                <span class="text-muted">—</span>
+                            }
+                        </td>
+
+                        <td>
+                            @if (b.IsCanceled)
+                            {
+                                <span class="badge bg-secondary">Odwołana</span>
+                                @if (b.CanceledAtUtc != null)
+                                {
+                                    <div class="text-muted small">
+                                        @b.CanceledAtUtc.Value.ToLocalTime().ToString("yyyy-MM-dd HH:mm")
+                                    </div>
+                                }
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Aktywna</span>
+                            }
+                        </td>
+                        <td>
+                            @if (!b.IsCanceled)
+                            {
+                                <a class="btn btn-sm btn-outline-primary"
+                                   asp-controller="Booking" asp-action="Edit"
+                                   asp-route-bookingId="@b.BookingId">
+                                    Edytuj
+                                </a>
+                            }
+                        </td>
+
+
+                        <td class="text-end">
+                            <a class="btn btn-sm btn-outline-secondary"
+                               asp-controller="Booking" asp-action="Confirm"
+                               asp-route-bookingId="@b.BookingId">
+                                Szczegóły
+                            </a>
+
+                            @* Opcjonalnie: przycisk Edytuj – dodamy później *@
+                            @* <a class="btn btn-sm btn-outline-primary"
+                               asp-controller="Booking" asp-action="Edit"
+                               asp-route-bookingId="@b.BookingId">
+                                Edytuj
+                            </a> *@
+
+                            @if (!b.IsCanceled)
+                            {
+                                <form asp-controller="Booking" asp-action="Cancel" method="post" class="d-inline">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="bookingId" value="@b.BookingId" />
+                                    <button type="submit" class="btn btn-sm btn-outline-danger"
+                                            onclick="return confirm('Na pewno chcesz odwołać wizytę?');">
+                                        Odwołaj
+                                    </button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

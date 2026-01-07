@@ -1,0 +1,46 @@
+﻿@model WebApplication1.Models.EditBookingViewModel
+@{
+    ViewData["Title"] = "Edytuj wizytę";
+}
+
+<h2 class="mb-3">Edytuj wizytę</h2>
+
+<div class="alert alert-info">
+    <div><b>Aktualnie:</b> @Model.CurrentDoctorName</div>
+    @if (Model.CurrentStartAt != null && Model.CurrentEndAt != null)
+    {
+        <div>
+            @Model.CurrentStartAt.Value.ToLocalTime().ToString("yyyy-MM-dd HH:mm")
+            -
+            @Model.CurrentEndAt.Value.ToLocalTime().ToString("HH:mm")
+        </div>
+    }
+</div>
+
+<form asp-action="Edit" method="post" class="card p-3">
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="BookingId" />
+
+    <div class="mb-3">
+        <label class="form-label">Lekarz</label>
+        <select class="form-select" asp-for="DoctorId" asp-items="Model.Doctors"
+                onchange="location.href='@Url.Action("Edit", "Booking", new { bookingId = Model.BookingId })' + '&doctorId=' + this.value;">
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Termin</label>
+        <select class="form-select" asp-for="SlotId" asp-items="Model.Slots"></select>
+        <span asp-validation-for="SlotId" class="text-danger"></span>
+    </div>
+
+    <div class="d-flex gap-2">
+        <button class="btn btn-primary" type="submit">Zapisz zmiany</button>
+        <a class="btn btn-outline-secondary" asp-action="MyVisits">Anuluj</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

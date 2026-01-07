@@ -28,5 +28,11 @@ namespace WebApplication1.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult WhoAmI()
+        {
+            var user = HttpContext.Items["User"];
+            return Content(user == null ? "NOT LOGGED" : "LOGGED");
+        }
     }
 }
