@@ -19,9 +19,7 @@ namespace WebApplication1.Controllers
             _db = db;
         }
 
-        // -------------------------
-        // REGISTER
-        // -------------------------
+      
         [HttpGet]
         public IActionResult Register()
         {
@@ -32,22 +30,22 @@ namespace WebApplication1.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
-            // Walidacja z DataAnnotations
+            
             if (!ModelState.IsValid)
                 return View(model);
 
-            // Normalizacja
+            
             model.Email = (model.Email ?? "").Trim().ToLowerInvariant();
             model.Pesel = (model.Pesel ?? "").Trim();
 
-            // Proste walidacje dodatkowe (opcjonalnie)
+            
             if (model.Pesel.Length != 11 || !model.Pesel.All(char.IsDigit))
             {
                 ModelState.AddModelError(nameof(model.Pesel), "PESEL musi mieć 11 cyfr.");
                 return View(model);
             }
 
-            // Unikalność Email
+          
             bool emailExists = await _db.Users.AnyAsync(u => u.Email == model.Email);
             if (emailExists)
             {
@@ -55,7 +53,7 @@ namespace WebApplication1.Controllers
                 return View(model);
             }
 
-            // Unikalność PESEL
+    
             bool peselExists = await _db.Users.AnyAsync(u => u.Pesel == model.Pesel);
             if (peselExists)
             {
@@ -63,7 +61,6 @@ namespace WebApplication1.Controllers
                 return View(model);
             }
 
-            // Hash hasła (PBKDF2)
             var (hash, salt, iterations) = PasswordHasher.Hash(model.Password);
 
             var user = new AppUser
@@ -82,15 +79,13 @@ namespace WebApplication1.Controllers
             _db.Users.Add(user);
             await _db.SaveChangesAsync();
 
-            // Auto-login po rejestracji (możesz zmienić na redirect do Login)
+         
             await CreateSessionAndSetCookie(user.Id);
 
             return RedirectToAction("Index", "Home");
         }
 
-        // -------------------------
-        // LOGIN
-        // -------------------------
+   
         [HttpGet]
         public IActionResult Login()
         {
@@ -131,9 +126,8 @@ namespace WebApplication1.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        // -------------------------
-        // LOGOUT
-        // -------------------------
+     
+    
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Logout()
@@ -156,12 +150,10 @@ namespace WebApplication1.Controllers
             return RedirectToAction("Login");
         }
 
-        // -------------------------
-        // Helper: create session + cookie
-        // -------------------------
+     
         private async Task CreateSessionAndSetCookie(int userId)
         {
-            // token: 32 losowe bajty -> base64url (cookie-safe)
+            
             var tokenBytes = RandomNumberGenerator.GetBytes(32);
             var token = Convert.ToBase64String(tokenBytes)
                 .Replace("+", "-")
@@ -185,7 +177,7 @@ namespace WebApplication1.Controllers
             Response.Cookies.Append(CookieName, token, new CookieOptions
             {
                 HttpOnly = true,
-                Secure = false,          // w produkcji: true (HTTPS)
+                Secure = false,          
                 SameSite = SameSiteMode.Lax,
                 Expires = session.ExpiresAtUtc
             });

@@ -102,7 +102,7 @@ namespace WebApplication1.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        // [RequireLogin]
+        
         public IActionResult Cancel(int bookingId)
         {
             var user = HttpContext.Items["User"] as AppUser;
@@ -116,7 +116,7 @@ namespace WebApplication1.Controllers
             if (booking == null)
                 return NotFound();
 
-            // zabezpieczenie: tylko właściciel może odwołać
+           
             if (booking.UserId != user.Id)
                 return Forbid();
 
@@ -145,7 +145,7 @@ namespace WebApplication1.Controllers
             if (booking.UserId != user.Id) return Forbid();
             if (booking.IsCanceled) return BadRequest("Nie można edytować odwołanej wizyty.");
 
-            // lekarz wybrany w querystring albo aktualny
+          
             int selectedDoctorId = doctorId ?? booking.Slot.DoctorId;
 
             var vm = new EditBookingViewModel
@@ -164,7 +164,7 @@ namespace WebApplication1.Controllers
                 .Select(ds => ds.SpecializationId)
                 .ToList();
 
-            // lekarze, którzy mają przynajmniej jedną z tych specjalizacji
+          
             var allowedDoctors = _context.Doctors
                 .Where(d =>
                     d.DoctorSpecializations.Any(ds =>
@@ -180,9 +180,7 @@ namespace WebApplication1.Controllers
                 Selected = d.DoctorId == selectedDoctorId
             }).ToList();
 
-            // sloty dla wybranego lekarza:
-            // - wolne (Booking == null)
-            // - plus aktualny slot tej rezerwacji (żeby dało się zostawić bez zmiany)
+           
             var slots = _context.Slots
                 .Include(s => s.Booking)
                 .Where(s => s.DoctorId == selectedDoctorId)
@@ -225,15 +223,15 @@ namespace WebApplication1.Controllers
 
             if (newSlot == null) return NotFound("Wybrany termin nie istnieje.");
 
-            // slot musi należeć do wybranego lekarza
+            
             if (newSlot.DoctorId != model.DoctorId)
                 return BadRequest("Wybrany termin nie pasuje do lekarza.");
 
-            // slot musi być wolny (albo to aktualny slot tej rezerwacji)
+            
             if (newSlot.Booking != null && newSlot.SlotId != booking.SlotId)
                 return BadRequest("Ten termin jest już zajęty.");
 
-            // ✅ zmiana terminu
+            
             booking.SlotId = newSlot.SlotId;
             _context.SaveChanges();
 

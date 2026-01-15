@@ -7,6 +7,70 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\editbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\editbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\editbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\editbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107143416_AddCancelFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107143416_AddCancelFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,36 +91,12 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134545_InitClean1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107134545_InitClean1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134251_InitClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107134251_InitClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133958_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107133958_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133718_AddUserToBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107133718_AddUserToBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,20 +123,8 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107125313_AddUserAndSessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260107125313_AddUserAndSessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,28 +143,8 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\AuthDb\\20260107115626_InitAuthSqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\AuthDb\\20260107115626_InitAuthSqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -161,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\views\\booking\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -187,16 +183,20 @@
       "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\migrations\\20260107143416_addcancelfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:migrations\\20260107143416_addcancelfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\migrations\\20260107134545_initclean1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:migrations\\20260107134545_initclean1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\migrations\\20260107133958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:migrations\\20260107133958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|c:\\users\\wierz\\desktop\\booking\\webapplication1\\migrations\\20260107134251_initclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AE117-C5B6-4403-B02D-4AE5CE3C9E89}|WebApplication1.csproj|solutionrelative:migrations\\20260107134251_initclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,8 +206,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T13:02:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.464Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -216,7 +242,7 @@
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAuwK0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T17:55:12.462Z",
               "EditorCaption": ""
@@ -224,40 +250,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyVisits.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\MyVisits.cshtml",
-              "RelativeDocumentMoniker": "Views\\Booking\\MyVisits.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\MyVisits.cshtml",
-              "RelativeToolTip": "Views\\Booking\\MyVisits.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T14:29:00.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\DbSeeder.cs",
-              "RelativeToolTip": "Data\\DbSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppSession.cs",
+              "RelativeDocumentMoniker": "Models\\AppSession.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppSession.cs",
+              "RelativeToolTip": "Models\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.45Z",
+              "WhenOpened": "2026-01-07T12:29:24.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T14:45:33.396Z",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:59:53.136Z",
               "EditorCaption": ""
             },
             {
@@ -268,144 +281,105 @@
               "RelativeDocumentMoniker": "Models\\EditBookingViewModel.cs",
               "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\EditBookingViewModel.cs",
               "RelativeToolTip": "Models\\EditBookingViewModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T14:43:17.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:04:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20260107143416_AddCancelFields.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107143416_AddCancelFields.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107143416_AddCancelFields.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107143416_AddCancelFields.cs",
-              "RelativeToolTip": "Migrations\\20260107143416_AddCancelFields.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T14:34:16.403Z",
+              "WhenOpened": "2026-01-06T17:55:12.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAkwE8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Booking.cs",
-              "RelativeToolTip": "Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260107134545_InitClean1.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134545_InitClean1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107134545_InitClean1.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134545_InitClean1.cs",
-              "RelativeToolTip": "Migrations\\20260107134545_InitClean1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:45:45.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20260107133718_AddUserToBooking.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133718_AddUserToBooking.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107133718_AddUserToBooking.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133718_AddUserToBooking.cs",
-              "RelativeToolTip": "Migrations\\20260107133718_AddUserToBooking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:37:18.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Index.cshtml",
-              "RelativeToolTip": "Views\\Doctor\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Slots.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Slots.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctor\\Slots.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Slots.cshtml",
-              "RelativeToolTip": "Views\\Doctor\\Slots.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260107133958_Init.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133958_Init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107133958_Init.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133958_Init.cs",
-              "RelativeToolTip": "Migrations\\20260107133958_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:39:58.305Z",
+              "WhenOpened": "2026-01-06T17:55:12.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "20260107134251_InitClean.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134251_InitClean.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107134251_InitClean.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134251_InitClean.cs",
-              "RelativeToolTip": "Migrations\\20260107134251_InitClean.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:42:52.017Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T13:05:40.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorSpecialization.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\DoctorSpecialization.cs",
+              "RelativeDocumentMoniker": "Models\\DoctorSpecialization.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\DoctorSpecialization.cs",
+              "RelativeToolTip": "Models\\DoctorSpecialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:26:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Slot.cs",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Slot.cs",
               "RelativeDocumentMoniker": "Models\\Slot.cs",
@@ -419,201 +393,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "Models\\Specialization.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Specialization.cs",
+              "RelativeToolTip": "Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.448Z",
+              "WhenOpened": "2026-01-06T17:55:12.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwMEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:59:53.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAwwEsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T17:55:12.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SessionAuthMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\SessionAuthMiddleware.cs",
-              "RelativeDocumentMoniker": "Auth\\SessionAuthMiddleware.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\SessionAuthMiddleware.cs",
-              "RelativeToolTip": "Auth\\SessionAuthMiddleware.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:32:31.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RequireLoginAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\RequireLoginAttribute.cs",
-              "RelativeDocumentMoniker": "Auth\\RequireLoginAttribute.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\RequireLoginAttribute.cs",
-              "RelativeToolTip": "Auth\\RequireLoginAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:32:47.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20260107125313_AddUserAndSessions.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107125313_AddUserAndSessions.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260107125313_AddUserAndSessions.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107125313_AddUserAndSessions.cs",
-              "RelativeToolTip": "Migrations\\20260107125313_AddUserAndSessions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:53:13.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T13:05:40.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T13:02:54.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Security\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Security\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Security\\PasswordHasher.cs",
-              "RelativeToolTip": "Security\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:32:06.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AppSession.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppSession.cs",
-              "RelativeDocumentMoniker": "Models\\AppSession.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppSession.cs",
-              "RelativeToolTip": "Models\\AppSession.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:29:24.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 15,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
@@ -626,33 +418,284 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:26:03.536Z",
+              "WhenOpened": "2026-01-06T17:55:12.41Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260107143416_AddCancelFields.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107143416_AddCancelFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107143416_AddCancelFields.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107143416_AddCancelFields.cs",
+              "RelativeToolTip": "Migrations\\20260107143416_AddCancelFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:34:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T14:45:33.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyVisits.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\MyVisits.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\MyVisits.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\MyVisits.cshtml",
+              "RelativeToolTip": "Views\\Booking\\MyVisits.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T14:29:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20260107134545_InitClean1.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134545_InitClean1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107134545_InitClean1.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134545_InitClean1.cs",
+              "RelativeToolTip": "Migrations\\20260107134545_InitClean1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:45:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260107133718_AddUserToBooking.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133718_AddUserToBooking.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107133718_AddUserToBooking.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133718_AddUserToBooking.cs",
+              "RelativeToolTip": "Migrations\\20260107133718_AddUserToBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:37:18.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Slots.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Slots.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\Slots.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Doctor\\Slots.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\Slots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260107133958_Init.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133958_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107133958_Init.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107133958_Init.cs",
+              "RelativeToolTip": "Migrations\\20260107133958_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:39:58.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260107134251_InitClean.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134251_InitClean.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107134251_InitClean.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107134251_InitClean.cs",
+              "RelativeToolTip": "Migrations\\20260107134251_InitClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:42:52.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T17:55:12.412Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\AppUser.cs",
-              "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Title": "SessionAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\SessionAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Auth\\SessionAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\SessionAuthMiddleware.cs",
+              "RelativeToolTip": "Auth\\SessionAuthMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:04:49.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T12:32:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RequireLoginAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\RequireLoginAttribute.cs",
+              "RelativeDocumentMoniker": "Auth\\RequireLoginAttribute.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Auth\\RequireLoginAttribute.cs",
+              "RelativeToolTip": "Auth\\RequireLoginAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:32:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260107125313_AddUserAndSessions.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107125313_AddUserAndSessions.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260107125313_AddUserAndSessions.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\20260107125313_AddUserAndSessions.cs",
+              "RelativeToolTip": "Migrations\\20260107125313_AddUserAndSessions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:53:13.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:55:12.464Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:32:06.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "20260107115626_InitAuthSqlite.cs",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Migrations\\AuthDb\\20260107115626_InitAuthSqlite.cs",
               "RelativeDocumentMoniker": "Migrations\\AuthDb\\20260107115626_InitAuthSqlite.cs",
@@ -660,8 +703,7 @@
               "RelativeToolTip": "Migrations\\AuthDb\\20260107115626_InitAuthSqlite.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:56:26.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T11:56:26.573Z"
             },
             {
               "$type": "Document",
@@ -673,21 +715,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-06T17:55:12.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "Controllers\\DoctorController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:55:12.58Z"
             },
             {
               "$type": "Document",
@@ -699,8 +727,7 @@
               "RelativeToolTip": "WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-06T17:55:12.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:55:12.482Z"
             },
             {
               "$type": "Document",
@@ -712,8 +739,7 @@
               "RelativeToolTip": "Migrations\\20260107114622_InitBookingSqlite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:46:23.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T11:46:23.14Z"
             },
             {
               "$type": "Document",
@@ -725,24 +751,11 @@
               "RelativeToolTip": "Migrations\\AuthDb\\20260106194755_InitIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T19:47:55.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T19:47:55.815Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
               "Title": "Confirm.cshtml",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Confirm.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Confirm.cshtml",
@@ -754,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Models.cs",
               "RelativeDocumentMoniker": "Models\\Models.cs",
@@ -766,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -778,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\Booking\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
@@ -790,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -799,42 +812,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-06T17:55:12.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Patient.cs",
-              "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Specialization.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Specialization.cs",
-              "RelativeDocumentMoniker": "Models\\Specialization.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\Specialization.cs",
-              "RelativeToolTip": "Models\\Specialization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "DoctorSpecialization.cs",
-              "DocumentMoniker": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\DoctorSpecialization.cs",
-              "RelativeDocumentMoniker": "Models\\DoctorSpecialization.cs",
-              "ToolTip": "C:\\Users\\wierz\\Desktop\\Booking\\WebApplication1\\Models\\DoctorSpecialization.cs",
-              "RelativeToolTip": "Models\\DoctorSpecialization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:55:12.464Z"
             }
           ]
         }
